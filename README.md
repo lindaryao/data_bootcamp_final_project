@@ -17,6 +17,8 @@ the project and course.
 Project Description
 
 Quinoa hasn't always been this popular. For centuries they were only eaten by a hand full of groups of people around the world. But today Quinoa has been publicly acknowledged as one of the world's healthiest foods. It has been featured on health magazines. It is available at many large chain grocery stores. It is the base of many people’s diet as rice and other forms of carbs have lost their touch with many health conscious consumers. As quinoa becomes this “fad” described in The Economist, a few questions emerges. 
+
 What is the history of Quinoa production? Who are the people behind planting of quinoa? How has the demand of quinoa affected the people who grew them over the years?  
+
 This project will search and plot the avalible quinoa data on FAO to help illustrate and answer these questions.
 
